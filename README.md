@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shardul003
+- 👋 Hi, I’m @Shardul
 - 👀 I’m interested in Data Science,Machine Learning,Data Analytics and Big Data
 - 🌱 I’m currently learning Data Science,Machine Learning and Data Architecture
 - Raw data whisperer in training
